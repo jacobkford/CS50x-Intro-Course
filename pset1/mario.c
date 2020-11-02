@@ -12,7 +12,7 @@ int main(void)
         h = get_int("Height: ");
     }
     // Checks if the user entered a number between 1 & 8
-    // If not, it will repeat the same question until condition becomes true.
+    // Else, it will repeat the same question until condition becomes true.
     while (h > 8 || h < 1);
 
     // Loop for building the shape
