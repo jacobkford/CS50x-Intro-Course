@@ -42,7 +42,7 @@ int main(int argc, string argv[])
     printf("ciphertext: ");
 
     // We will be looping through each character in the text provided by the user.
-    for (int j = 0, k = 0; j < text_length; j++)
+    for (int j = 0; j < text_length; j++)
     {
         // Checking if the character is a letter.
         if (isalpha(input[j]))
