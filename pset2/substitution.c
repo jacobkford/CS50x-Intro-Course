@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <cs50.h>
 #include <ctype.h>
 #include <string.h>
@@ -9,7 +8,6 @@ int main(int argc, string argv[])
     int argl = 0;
     int upper_key[26];
     int lower_key[26];
-    int dupe = 0;
 
     // Checking if the user provides a vaild number of inputs.
     if (argc == 2)
