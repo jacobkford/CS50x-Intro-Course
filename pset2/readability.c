@@ -15,25 +15,21 @@ int main(void)
 {
     string input;
     int input_length = 0;
-
     // Asks the user to input a string of text.
     do
     {
         input = get_string("Text: ");
         input_length = strlen(input);
+        // Checks if the user entered something, if not it will return the question.
     }
-    // Checks if the user entered something, if not it will return the question.
     while (input_length <= 0);
-
+    
     // Checking the amount of Letters, Words and Sentences that were inputted.
     float l = LetterCount(input), w = WordCount(input), s = SentenceCount(input);
-
     // Calculating the average of letters per 100 words, and sentences per 100 words.
     float avgl = AverageLetters(l, w), avgs = AverageSentences(s, w);
-
     // Calculating the Coleman-Liau readability test result for the users inputted sentence(s)/paragraph(s).
     float index = CLIndex(avgl, avgs);
-
     // Checking if the answer is less than Grade 1 material.
     if (index < 1)
     {
