@@ -30,10 +30,10 @@ int main(int argc, string argv[])
                 printf("Key must not contain repeated characters.\n");
                 return 1;
             }
-            // Creating an uppercase & lowercase version of the key.
-            upper_key[i] = toupper(argv[1][i]);
-            lower_key[i] = tolower(argv[1][i]);
         }
+        // Creating an uppercase & lowercase version of the key.
+        upper_key[i] = toupper(argv[1][i]);
+        lower_key[i] = tolower(argv[1][i]);
     }
     // Asking the user for their text input.
     string input = get_string("plaintext: ");
