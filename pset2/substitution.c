@@ -17,25 +17,22 @@ int main(int argc, string argv[])
     for (int i = 0; i < 26; i++)
     {
         // Checking if the all the characters in the 2nd input are digits, returns message if 1 or more are not digits.
-        if (isalpha(argv[1][i]))
-        {
-            // Creating an uppercase & lowercase version of the key.
-            upper_key[i] = toupper(argv[1][i]);
-            lower_key[i] = tolower(argv[1][i]);
-            // Checking for duplicate characters.
-            for (int d = 0; d < i; d++)
-            {
-                if (argv[1][i] == argv[1][d])
-                {
-                    printf("Key must not contain repeated characters.\n");
-                    return 1;
-                }
-            }
-        }
-        else
+        if (!isalpha(argv[1][i]))
         {
             printf("Usage: ./substitution key\n");
             return 1;
+        }
+        // Checking for duplicate characters.
+        for (int d = 0; d < i; d++)
+        {
+            if (argv[1][i] == argv[1][d])
+            {
+                printf("Key must not contain repeated characters.\n");
+                return 1;
+            }
+            // Creating an uppercase & lowercase version of the key.
+            upper_key[i] = toupper(argv[1][i]);
+            lower_key[i] = tolower(argv[1][i]);
         }
     }
     // Asking the user for their text input.
