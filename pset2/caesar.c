@@ -9,35 +9,26 @@ char caesar(char p, int key);
 int main(int argc, string argv[])
 {
     int key = 0;
-    int argl = 0;
-    string input;
-
     // Checking if the user provides a vaild number of inputs.
-    if (argc == 2)
-    {
-        // Calculating how long the 2nd input is.
-        argl = strlen(argv[1]);
-        for (int i = 0; i < argl; i++)
-        {
-            // Checking if the all the characters in the 2nd input are digits, returns message if 1 or more are not digits.
-            if (!isdigit(argv[1][i]))
-            {
-                printf("Usage: ./caesar key\n");
-                return 1;
-            }
-        }
-        // Stating the variable for the cipher key.
-        key = atoi(argv[1]);
-    }
-    // Returns message if an incorrect amount of inputs is executed.
-    else
+    if (argc != 2)
     {
         printf("Usage: ./caesar key\n");
         return 1;
     }
-
+    // Calculating how long the 2nd input is.
+    for (int i = 0; i < strlen(argv[1]); i++)
+    {
+        // Checking if the all the characters in the 2nd input are digits, returns message if 1 or more are not digits.
+        if (!isdigit(argv[1][i]))
+        {
+            printf("Usage: ./caesar key\n");
+            return 1;
+        }
+    }
+    // Stating the variable for the cipher key.
+    key = atoi(argv[1]);
     // Asking the user for their text input.
-    input = get_string("plaintext: ");
+    string input = get_string("plaintext: ");
     int text_length = strlen(input);
     printf("ciphertext: ");
 
@@ -61,9 +52,7 @@ int main(int argc, string argv[])
     printf("\n");
     return 0;
 }
-
 // This is the 'caesar cipher' function, which supports case sensativity input.
-
 char caesar(char p, int key)
 {
     // Encryption for uppercase letters.
