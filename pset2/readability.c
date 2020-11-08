@@ -46,6 +46,7 @@ int main(void)
         printf("Grade %i\n", (int) index);
     }
 }
+
 // This function will calculate the total amount of Letters inputted.
 float LetterCount(string x)
 {
@@ -61,6 +62,7 @@ float LetterCount(string x)
     }
     return letter_count;
 }
+
 // This function will calculate the total amount of Words inputted.
 float WordCount(string y)
 {
@@ -78,6 +80,7 @@ float WordCount(string y)
     word_count += 1;
     return word_count;
 }
+
 // This function will calculate the total amount of Sentences inputted.
 float SentenceCount(string z)
 {
@@ -94,6 +97,7 @@ float SentenceCount(string z)
     }
     return sentence_count;
 }
+
 // This function will calculate the average amount of Letters used per 100 words.
 float AverageLetters(float a, float b)
 {
@@ -102,6 +106,7 @@ float AverageLetters(float a, float b)
     float average_letters = a / b * 100;
     return average_letters;
 }
+
 // This function will calculate the average amount of Sentences used per 100 words.
 float AverageSentences(float c, float d)
 {
@@ -110,6 +115,7 @@ float AverageSentences(float c, float d)
     float average_sentences = c / d * 100;
     return average_sentences;
 }
+
 // This function (using the Coleman-Liau Index) will calculate readablilty level.
 float CLIndex(float e, float f)
 {
