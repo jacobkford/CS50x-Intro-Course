@@ -8,7 +8,6 @@ char caesar(char p, int key);
 
 int main(int argc, string argv[])
 {
-    int key = 0;
     // Checking if the user provides a vaild number of inputs.
     if (argc != 2)
     {
@@ -26,7 +25,7 @@ int main(int argc, string argv[])
         }
     }
     // Stating the variable for the cipher key.
-    key = atoi(argv[1]);
+    int key = atoi(argv[1]);
     // Asking the user for their text input.
     string input = get_string("plaintext: ");
     int text_length = strlen(input);
