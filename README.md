@@ -157,7 +157,7 @@ Rank 3: Bob
 Alice
 ```
 
-**plurality.c** : runs a Tideman election
+**tideman.c** : runs a Tideman election
   * *The only contribution to this project was creating the functions 'vote', 'record_preferences', 'add_pairs', 'sort_pairs', 'lock_pairs', 'lock_check' & 'print_winner'*
 ```
 $ ./tideman Alice Bob Charlie
