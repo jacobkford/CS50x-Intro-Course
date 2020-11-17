@@ -104,15 +104,15 @@ Project Link: [https://github.com/jacobkford/CS50x-Intro-Course](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/jacobkford/repo.svg?style=flat-square
+[contributors-url]: https://github.com/jacobkford/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jacobkford/repo.svg?style=flat-square
+[forks-url]: https://github.com/jacobkford/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/jacobkford/repo.svg?style=flat-square
+[stars-url]: https://github.com/jacobkford/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jacobkford/repo.svg?style=flat-square
+[issues-url]: https://github.com/jacobkford/repo/issues
+[license-shield]: https://img.shields.io/github/license/jacobkford/repo.svg?style=flat-square
 [license-url]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
