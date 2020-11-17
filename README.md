@@ -43,7 +43,7 @@
   <p align="center">
     This is my repository for the solutions I submitted for Harvard University's Computer Science course CS50.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/CS50x-Intro-Course"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">CS50 Details</a>
@@ -104,15 +104,15 @@ Project Link: [https://github.com/jacobkford/CS50x-Intro-Course](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jacobkford/repo.svg?style=flat-square
-[contributors-url]: https://github.com/jacobkford/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jacobkford/repo.svg?style=flat-square
-[forks-url]: https://github.com/jacobkford/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/jacobkford/repo.svg?style=flat-square
-[stars-url]: https://github.com/jacobkford/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jacobkford/repo.svg?style=flat-square
-[issues-url]: https://github.com/jacobkford/repo/issues
-[license-shield]: https://img.shields.io/github/license/jacobkford/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/jacobkford/CS50x-Intro-Course.svg?style=flat-square
+[contributors-url]: https://github.com/jacobkford/CS50x-Intro-Course/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jacobkford/CS50x-Intro-Course.svg?style=flat-square
+[forks-url]: https://github.com/jacobkford/CS50x-Intro-Course/network/members
+[stars-shield]: https://img.shields.io/github/stars/jacobkford/CS50x-Intro-Course.svg?style=flat-square
+[stars-url]: https://github.com/jacobkford/CS50x-Intro-Course/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jacobkford/CS50x-Intro-Course.svg?style=flat-square
+[issues-url]: https://github.com/jacobkford/CS50x-Intro-Course/issues
+[license-shield]: https://img.shields.io/github/license/jacobkford/CS50x-Intro-Course.svg?style=flat-square
 [license-url]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
