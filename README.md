@@ -57,7 +57,7 @@ https://scratch.mit.edu/projects/441235319/#fullscreen
 
 ## Week 1: C
 hello.c : a program that's requests for the users name, then responds with a greeting
-```javascript
+```
 ~/workspace/pset1/ (master) $ ./hello
 What is your name?
 Jacob
