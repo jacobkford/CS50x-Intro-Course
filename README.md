@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jacobkford/CS50x-Intro-Course">
-    <img src="https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-3b9fb73b5d5d.small.jpg" alt="Logo" width="370" height="210">
+    <img src="https://prod-discovery.edx-cdn.org/organization/logos/44022f13-20df-4666-9111-cede3e5dc5b6-2cc39992c67a.png" alt="Logo" width="370" height="210">
   </a>
 
   <h3 align="center">CS50x - Introduction to Computer Science</h3>
