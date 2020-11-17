@@ -39,6 +39,10 @@
   * [plurality](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/plurality.c)
   * [runoff](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/runoff.c)
   * [tideman](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/tideman.c)
+* [Week 4: Forensics](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory)
+  * filter
+    * [less](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20less)
+    * [more](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20more)
 
 
 
@@ -180,6 +184,19 @@ Charlie
 
 
 
+## Week 4: Forensics
+**filter.c (less)** : applies filters to BMPs
+```
+$ ./filter -r image.bmp reflected.bmp
+```
+
+**filter.c (more)** : applies filters to BMPs
+```
+$ ./filter -r image.bmp reflected.bmp
+```
+
+
+
 <!-- LICENSE -->
 ## License
 
@@ -190,4 +207,4 @@ This course is licensed under a Creative Commons Attribution-NonCommercial-Share
 <!-- DISCLAIMER -->
 ## Disclaimer
 
-Please do not copy & paste code from this repo if you are doing the course and haven't yet solved the set problems, it is a violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
+Please do not copy & paste code from this repo if you are doing the course and haven't yet solved the problem sets, it is a violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
