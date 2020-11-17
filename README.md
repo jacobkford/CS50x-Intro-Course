@@ -79,8 +79,8 @@ Height: 6
 **cash.c** : counts minimum number of coins needed for a change using Greedy Algorithm
 ```
 $ ./cash
-Changed owed: -0.72
-Changed owed: foo
+Change owed: -0.72
+Change owed: foo
 Change owed: 0.72
 6
 ```
@@ -94,6 +94,97 @@ Number: 4003600000000014
 VISA
 ```
 
+
+
+## Week 2: Crypto
+**readability.c** : computes the approximate grade level needed to comprehend some text
+```
+$ ./readability
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Grade 3
+```
+
+**caesar.c** : caesar cipher some text, which supports case-sensitivity 
+```
+$ ./caesar 13
+plaintext:  HELLO
+ciphertext: URYYB
+```
+
+**substitution.c** : substitution cipher some text, which supports case-sensitivity 
+```
+$ ./substitution JTREKYAVOGDXPSNCUIZLFBMWHQ
+plaintext:  HELLO
+ciphertext: VKXXN
+```
+
+
+
+## Week 3: Elections
+**plurality.c** : runs a Plurality election
+```
+$ ./plurality Alice Bob Charlie
+Number of voters: 4
+Vote: Alice
+Vote: Bob
+Vote: Charlie
+Vote: Alice
+Alice
+```
+
+**runoff.c** : runs a Runoff election
+```
+$ ./runoff Alice Bob Charlie
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Bob
+Rank 3: Charlie
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Alice
+Rank 3: Charlie
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Alice
+```
+
+**plurality.c** : runs a Tideman election
+```
+$ ./tideman Alice Bob Charlie
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Charlie
+```
 
 
 
