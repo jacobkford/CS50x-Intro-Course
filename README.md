@@ -118,6 +118,7 @@ ciphertext: VKXXN
 
 ## Week 3: Elections
 **plurality.c** : runs a Plurality election
+  * *The only contribution to this project was creating the functions 'vote' & 'print_winner'*
 ```
 $ ./plurality Alice Bob Charlie
 Number of voters: 4
@@ -129,6 +130,7 @@ Alice
 ```
 
 **runoff.c** : runs a Runoff election
+  * *The only contribution to this project was creating the functions 'vote', 'tabulate', 'print_winner', 'find_min', 'is_tie' & 'eliminate'*
 ```
 $ ./runoff Alice Bob Charlie
 Number of voters: 5
@@ -156,6 +158,7 @@ Alice
 ```
 
 **plurality.c** : runs a Tideman election
+  * *The only contribution to this project was creating the functions 'vote', 'record_preferences', 'add_pairs', 'sort_pairs', 'lock_pairs', 'lock_check' & 'print_winner'*
 ```
 $ ./tideman Alice Bob Charlie
 Number of voters: 5
