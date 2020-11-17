@@ -59,21 +59,21 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Week 0: Scratch](/C/pset0)
+* [Week 0: Scratch](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset0%20-%20Scratch%20%F0%9F%98%BA)
   * [VSP - Virtual Studio Piano](https://scratch.mit.edu/projects/441235319)
-* [Week 1: C](/C/pset1)
-  * [hello](/C/pset1/hello.c)
-  * [mario](/C/pset1/mario.c)
-  * [cash](/C/pset1/cash.c)
-  * [credit](/C/pset1/credit.c)
-* [Week 2: Crypto](/C/pset2)
-  * [readability](/C/pset2/readability.c)
-  * [caesar](/C/pset2/caesar.c)
-  * [substitution](/C/pset2/substitution.c)
-* [Week 3: Elections](/C/pset3)
-  * [plurality](/C/pset3/plurality.c)
-  * [runoff](/C/pset3/runoff.c)
-  * [tideman](/C/pset2/tideman.c)
+* [Week 1: C](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset1%20-%20C)
+  * [hello](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset1%20-%20C/hello.c)
+  * [mario](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset1%20-%20C/mario.c)
+  * [cash](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset1%20-%20C/cash.c)
+  * [credit](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset1%20-%20C/credit.c)
+* [Week 2: Crypto](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset2%20-%20Arrays)
+  * [readability](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset2%20-%20Arrays/readability.c)
+  * [caesar](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset2%20-%20Arrays/caesar.c)
+  * [substitution](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset2%20-%20Arrays/substitution.c)
+* [Week 3: Elections](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset3%20-%20Algorithms)
+  * [plurality](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/plurality.c)
+  * [runoff](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/runoff.c)
+  * [tideman](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset3%20-%20Algorithms/tideman.c)
 
 
 
