@@ -1,36 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -84,36 +51,7 @@ This course is licensed under a Creative Commons Attribution-NonCommercial-Share
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/jacobkford/CS50x-Intro-Course](https://github.com/jacobkford/CS50x-Intro-Course)
-
-
-
 <!-- DISCLAIMER -->
-## Acknowledgements
+## Disclaimer
 
-* []()
-* []()
-* []()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jacobkford/CS50x-Intro-Course.svg?style=flat-square
-[contributors-url]: https://github.com/jacobkford/CS50x-Intro-Course/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jacobkford/CS50x-Intro-Course.svg?style=flat-square
-[forks-url]: https://github.com/jacobkford/CS50x-Intro-Course/network/members
-[stars-shield]: https://img.shields.io/github/stars/jacobkford/CS50x-Intro-Course.svg?style=flat-square
-[stars-url]: https://github.com/jacobkford/CS50x-Intro-Course/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jacobkford/CS50x-Intro-Course.svg?style=flat-square
-[issues-url]: https://github.com/jacobkford/CS50x-Intro-Course/issues
-[license-shield]: https://img.shields.io/github/license/jacobkford/CS50x-Intro-Course.svg?style=flat-square
-[license-url]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+Please do not copy & paste code from this repo if you are doing the course and haven't yet solved the set problems, it is a violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
