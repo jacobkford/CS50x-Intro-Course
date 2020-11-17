@@ -18,6 +18,8 @@
     <a href="https://cs50.harvard.edu/x/2020/">Course Materials</a>
     ·
     <a href="https://github.com/cs50">CS50 Github</a>
+    ·
+    <a href="https://www.youtube.com/c/cs50">CS50 YouTube</a>
   </p>
 </p>
 
