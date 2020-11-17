@@ -13,7 +13,7 @@
     <a href="https://github.com/github_username/CS50x-Intro-Course"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">CS50 Details</a>
+    <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">edX</a>
     ·
     <a href="https://cs50.harvard.edu/x/2020/">Course Materials</a>
     ·
