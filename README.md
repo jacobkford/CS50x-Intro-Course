@@ -10,7 +10,7 @@
   <p align="center">
     This is my repository for the solutions I submitted for Harvard University's Computer Science course CS50.
     <br />
-    <a href="https://github.com/github_username/CS50x-Intro-Course"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/CS50x-Intro-Course"><strong>Certificate »</strong></a>
     <br />
     <br />
     <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">edX</a>
