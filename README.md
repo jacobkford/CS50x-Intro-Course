@@ -58,11 +58,40 @@ https://scratch.mit.edu/projects/441235319/#fullscreen
 ## Week 1: C
 hello.c : a program that's requests for the users name, then responds with a greeting
 ```
-~/workspace/pset1/ (master) $ ./hello
+~/pset1/ $ ./hello
 What is your name?
 Jacob
 hello, Jacob
 ```
+
+mario.c : a program that recreates a pyramid using hashes (#) for blocks.
+```
+$ ./mario
+Height: 6
+     #  #
+    ##  ##
+   ###  ###
+  ####  ####
+ #####  #####
+######  ######
+```
+
+cash.c : a program to count minimum number of coins needed for a change using Greedy Algorithm
+```
+$ ./cash
+Change owed: 0.72
+6
+```
+
+credit.c : a program that checks if a credit card number is valid, using the Luhn's Algorithm
+```
+$ ./credit
+Number: 4003-6000-0000-0014
+Number: foo
+Number: 4003600000000014
+VISA
+```
+
 
 
 
