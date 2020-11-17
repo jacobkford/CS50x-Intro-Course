@@ -79,6 +79,8 @@ Height: 6
 **cash.c** : counts minimum number of coins needed for a change using Greedy Algorithm
 ```
 $ ./cash
+Changed owed: -0.72
+Changed owed: foo
 Change owed: 0.72
 6
 ```
