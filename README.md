@@ -91,7 +91,7 @@ Project Link: [https://github.com/jacobkford/CS50x-Intro-Course](https://github.
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- DISCLAIMER -->
 ## Acknowledgements
 
 * []()
