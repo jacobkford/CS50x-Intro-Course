@@ -10,16 +10,12 @@
   <p align="center">
     This is my repository for the solutions I submitted for Harvard University's Computer Science course CS50.
     <br />
-    <a href="https://github.com/github_username/CS50x-Intro-Course"><strong>Certificate »</strong></a>
-    <br />
     <br />
     <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science">edX</a>
     ·
     <a href="https://cs50.harvard.edu/x/2020/">Course Materials</a>
     ·
-    <a href="https://github.com/cs50">CS50 Github</a>
-    ·
-    <a href="https://www.youtube.com/c/cs50">CS50 YouTube</a>
+    <a href="https://ide.cs50.io/">IDE</a>
   </p>
 </p>
 
@@ -79,8 +75,6 @@ Height: 6
 **cash.c** : counts minimum number of coins needed for a change using Greedy Algorithm
 ```
 $ ./cash
-Change owed: -0.72
-Change owed: foo
 Change owed: 0.72
 6
 ```
@@ -88,8 +82,6 @@ Change owed: 0.72
 **credit.c** : checks if a credit card number is valid, using the Luhn's Algorithm
 ```
 $ ./credit
-Number: 4003-6000-0000-0014
-Number: foo
 Number: 4003600000000014
 VISA
 ```
