@@ -186,11 +186,13 @@ Charlie
 
 ## Week 4: Forensics
 **filter.c (less)** : applies filters to BMPs
+  * *The only contribution to this project was creating the functions in helpers.c*
 ```
 $ ./filter -r image.bmp reflected.bmp
 ```
 
 **filter.c (more)** : applies filters to BMPs
+  * *The only contribution to this project was creating the functions in helpers.c*
 ```
 $ ./filter -r image.bmp reflected.bmp
 ```
