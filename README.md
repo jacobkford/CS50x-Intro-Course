@@ -43,6 +43,7 @@
   * filter
     * [less](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20less)
     * [more](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20more)
+  * recover
 
 
 
@@ -198,6 +199,11 @@ $ ./filter -r image.bmp reflected.bmp
   * *The only contribution to this project was creating the functions in helpers.c*
 ```
 $ ./filter -r image.bmp reflected.bmp
+```
+
+**recover.c** : recovers JPEGs from a forensic image
+```
+$ ./recover card.raw
 ```
 
 
