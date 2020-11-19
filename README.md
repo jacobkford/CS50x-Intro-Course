@@ -253,7 +253,7 @@ hello, Jacob
 
 **mario.py** : recreates a pyramid using hashes (#) for blocks.
 ```
-$ ./mario
+$ python mario.py
 Height: 6
      #  #
     ##  ##
