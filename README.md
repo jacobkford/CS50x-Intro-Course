@@ -48,6 +48,7 @@
   * [speller](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset5%20-%20Data%20Structures/speller)
 * [Week 6: Python](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset6%20-%20Python%20%F0%9F%90%8D)
   * [hello](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/hello.py)
+  * [mario](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/mario.py)
 
 
 
@@ -249,6 +250,19 @@ What is your name?
 Jacob
 hello, Jacob
 ```
+
+**mario.py** : recreates a pyramid using hashes (#) for blocks.
+```
+$ ./mario
+Height: 6
+     #  #
+    ##  ##
+   ###  ###
+  ####  ####
+ #####  #####
+######  ######
+```
+
 
 
 <!-- LICENSE -->
