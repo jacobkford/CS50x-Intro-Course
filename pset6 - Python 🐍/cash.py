@@ -27,5 +27,6 @@ while (cents > 0):
     # Penny
         cents -= 1
         coins += 1
+
 # Returns a value equal to the amount of change returned.
 print(f"You are owed {coins} coins in total.")
