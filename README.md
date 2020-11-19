@@ -44,6 +44,8 @@
     * [less](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20less)
     * [more](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset4%20-%20Memory/filter%20-%20more)
   * [recover](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset4%20-%20Memory/recover/recover.c)
+* [Week 5: Speller](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset5%20-%20Data%20Structures)
+  * [speller](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset5%20-%20Data%20Structures/speller)
 
 
 
@@ -204,6 +206,35 @@ $ ./filter -r image.bmp reflected.bmp
 **recover.c** : recovers JPEGs from a forensic image
 ```
 $ ./recover card.raw
+```
+
+
+
+## Week 4: Forensics
+**speller.c** : spell-checks a file using a hash table
+  * *The only contribution to this project was creating the functions in dictionary.c*
+```
+$ ./speller texts/lalaland.txt
+MISSPELLED WORDS
+
+[...]
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHT
+[...]
+Shangri
+[...]
+fianc
+[...]
+Sebastian's
+[...]
+
+WORDS MISSPELLED:
+WORDS IN DICTIONARY:
+WORDS IN TEXT:
+TIME IN load:
+TIME IN check:
+TIME IN size:
+TIME IN unload:
+TIME IN TOTAL:
 ```
 
 
