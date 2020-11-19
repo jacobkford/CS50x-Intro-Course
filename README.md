@@ -210,7 +210,7 @@ $ ./recover card.raw
 
 
 
-## Week 4: Forensics
+## Week 5: Speller
 **speller.c** : spell-checks a file using a hash table
   * *The only contribution to this project was creating the functions in dictionary.c*
 ```
