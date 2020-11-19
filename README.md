@@ -46,6 +46,8 @@
   * [recover](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset4%20-%20Memory/recover/recover.c)
 * [Week 5: Speller](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset5%20-%20Data%20Structures)
   * [speller](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset5%20-%20Data%20Structures/speller)
+* [Week 6: Python](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset6%20-%20Python%20%F0%9F%90%8D)
+  * [hello](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/hello.py)
 
 
 
@@ -237,6 +239,16 @@ TIME IN unload:
 TIME IN TOTAL:
 ```
 
+
+
+## Week 6: Python
+**hello.py** : requests for the users name, then responds with a greeting
+```
+$ python hello.py
+What is your name?
+Jacob
+hello, Jacob
+```
 
 
 <!-- LICENSE -->
