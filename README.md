@@ -50,6 +50,7 @@
   * [hello](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/hello.py)
   * [mario](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/mario.py)
   * [cash](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/cash.py)
+  * [credit](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/credit.py)
 
 
 
@@ -269,6 +270,13 @@ Height: 6
 $ python cash.py
 Change owed: 0.72
 6
+```
+
+**credit.py** : checks if a credit card number is valid, using the Luhn's Algorithm
+```
+$ python credit.py
+Number: 4003600000000014
+VISA
 ```
 
 
