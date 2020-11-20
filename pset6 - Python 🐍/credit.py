@@ -8,19 +8,19 @@ while (card <= 0):
     card = get_int("Credit Card number: ")
 
 check = card
-last = 0
 total = 0
 
+# Repeats loop until every digit has been checked
 while (check > 0):
-    # Checks every first digit
+    # Checks first digit
     last = check % 10
     total += last
 
-    # Gets rid of right most digit
+    # Gets rid of the first digit
     check /= 10
     check = floor(check)
 
-    # Checks every second digit
+    # Checks second digit
     sec_last = (check % 10) * 2
 
     # If the number is 2 digits, it will add them both individually to the total
@@ -31,7 +31,7 @@ while (check > 0):
     else:
         total += sec_last
 
-    # Checks every first digit
+    # Gets rid of the second digit
     check /= 10
     check = floor(check)
 
