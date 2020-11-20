@@ -51,7 +51,7 @@
   * [mario](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/mario.py)
   * [cash](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/cash.py)
   * [credit](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/credit.py)
-  * [readability]()
+  * [readability](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/readability.py)
   * [DNA]()
 
 
