@@ -51,6 +51,8 @@
   * [mario](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/mario.py)
   * [cash](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/cash.py)
   * [credit](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/credit.py)
+  * [readability]()
+  * [DNA]()
 
 
 
@@ -279,7 +281,18 @@ Number: 4003600000000014
 VISA
 ```
 
+**readability.py** : computes the approximate grade level needed to comprehend some text
+```
+$ python readability.py
+Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+Grade 3
+```
 
+**DNA.py** : identifies a person based on their DNA
+```
+$ python dna.py databases/large.csv sequences/5.txt
+Lavender
+```
 
 
 
