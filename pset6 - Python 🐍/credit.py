@@ -4,14 +4,14 @@ from math import floor
 
 # Asks user for input the card value, it will repeat the question if the answer isn't a positive number
 card = 0
-while (card <= 0):
+while card <= 0:
     card = get_int("Credit Card number: ")
 
 check = card
 total = 0
 
 # Repeats loop until every digit has been checked
-while (check > 0):
+while check > 0:
     # Checks first digit
     last = check % 10
     total += last
@@ -24,7 +24,7 @@ while (check > 0):
     sec_last = (check % 10) * 2
 
     # If the number is 2 digits, it will add them both individually to the total
-    if (sec_last >= 10):
+    if sec_last >= 10:
         total += sec_last % 10
         sec_last /= 10
         total += floor(sec_last)
@@ -52,22 +52,22 @@ while (first_two >= 100):
 first_two = int(first_two)
 
 # Luhn’s algorithm check
-if (total % 10 != 0):
+if total % 10 != 0:
     print("INVALID")
     exit(1)
 
 # Check if the card is a VISA card
-if (first == 4 and (count == 13 or count == 16)):
+if first == 4 and (count == 13 or count == 16):
     print("VISA")
     exit(0)
 
 # Checks if the card is an American Express card
-elif ((first_two == 34 or first_two == 37) and count == 15):
+elif (first_two == 34 or first_two == 37) and count == 15:
     print("AMEX")
     exit(0)
 
 # Checks if the card is a MasterCard
-elif ((50 < first_two and 56 > first_two) and count == 16):
+elif (50 < first_two and 56 > first_two) and count == 16:
     print("MASTERCARD")
     exit(0)
 
