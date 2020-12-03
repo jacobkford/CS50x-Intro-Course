@@ -55,6 +55,7 @@
   * [DNA](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/dna/dna.py)
 * [Week 7: SQL](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL)
   * [movies](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL/movies)
+  * [houses](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL/houses)
 
 
 
@@ -304,6 +305,23 @@ Lavender
 $ cat filename.sql | sqlite3 movies.db
 ```
 
+**houses** : import student data into a database, and then produce class roster
+```
+$ python import.py characters.csv
+$ python roster.py Gryffindor
+
+Lavender Brown, born 1979
+Colin Creevey, born 1981
+Seamus Finnigan, born 1979
+Hermione Jean Granger, born 1979
+Neville Longbottom, born 1980
+Parvati Patil, born 1979
+Harry James Potter, born 1980
+Dean Thomas, born 1980
+Romilda Vane, born 1981
+Ginevra Molly Weasley, born 1981
+Ronald Bilius Weasley, born 1980
+```
 
 
 
