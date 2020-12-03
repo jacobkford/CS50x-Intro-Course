@@ -53,6 +53,8 @@
   * [credit](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/credit.py)
   * [readability](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/readability.py)
   * [DNA](https://github.com/jacobkford/CS50x-Intro-Course/blob/main/pset6%20-%20Python%20%F0%9F%90%8D/dna/dna.py)
+* [Week 7: SQL](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL)
+  * [movies](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL/movies)
 
 
 
@@ -293,6 +295,15 @@ Grade 3
 $ python dna.py databases/large.csv sequences/5.txt
 Lavender
 ```
+
+
+
+## Week 7: SQL
+**movies** : SQL queries to answer questions about a database of movies
+```
+$ cat filename.sql | sqlite3 movies.db
+```
+
 
 
 
