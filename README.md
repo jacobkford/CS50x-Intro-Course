@@ -56,6 +56,9 @@
 * [Week 7: SQL](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL)
   * [movies](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL/movies)
   * [houses](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset7%20-%20SQL/houses)
+* [Tracks: Web](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset8%20-%20Web%20%5BTrack%5D)
+  * [homepage](https://github.com/jacobkford/CS50x-Intro-Course/tree/main/pset8%20-%20Web%20%5BTrack%5D/homepage)
+  * [finance]()
 
 
 
@@ -322,6 +325,11 @@ Romilda Vane, born 1981
 Ginevra Molly Weasley, born 1981
 Ronald Bilius Weasley, born 1980
 ```
+
+## Tracks: Web
+**homepage** : a simple homepage using HTML, CSS, and JavaScript.
+
+**finance** : a website where users can “buy” and “sell” stocks.
 
 
 
